@@ -1,7 +1,8 @@
 ## Hi there 👋
 
  ¡Hola! Soy Andrea
- Desarrollador en programación.
+ 
+ Desarrolladora en programación.
 
  Sobre mí
 - 🌱 Actualmente estoy aprendiendo programación.
