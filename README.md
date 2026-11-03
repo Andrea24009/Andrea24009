@@ -1,15 +1,14 @@
 ## Hi there 👋
 
-# 👋 ¡Hola! Soy Andrea
+ ¡Hola! Soy Andrea
+ Desarrollador en programación.
 
-💻 Desarrollador en programación.
-
-## 🚀 Sobre mí
+ Sobre mí
 - 🌱 Actualmente estoy aprendiendo programación.
 - 💡 Me interesa el desarrollo de software.
 - 🎯 Me gusta aprender nuevas tecnologías.
 
-## 🛠️ Tecnologías
+ Tecnologías
 - HTML
 - CSS
 - JavaScript
